@@ -47,7 +47,7 @@ sections:
   
 # Main content - An array of sections, each containing an array of items
 sections:
-- name: Getting Started1
+- name: Getting Started2
   icon: fas fa-rocket
   items:
   - title: Dashy Live
